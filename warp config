@@ -3,7 +3,7 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
-warp://p1@162.158.39.201:894?ifp=4-8&ifps=40-100&ifpd=20-40&ifpm=m1#test1
-warp://p2@162.158.117.1:894?ifp=4-8&ifps=40-100&ifpd=20-40&ifpm=m2#test2
-warp://p3@103.11.212.65:894?ifp=4-8&ifps=40-100&ifpd=20-40&ifpm=m3#test3
-warp://p4@104.17.223.123:894?ifp=4-8&ifps=40-100&ifpd=20-40&ifpm=m4#test4
+warp://p1@162.158.39.201:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#test1
+warp://p2@162.158.117.1:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#test2
+warp://p3@103.11.212.65:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#test3
+warp://p4@104.18.4.229:443?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#test4
